@@ -2,20 +2,6 @@
 
 # Supply Chain Risk & Performance Decision Dashboard
 
-**SQL + Python + Power BI | DataCo SMART Supply Chain Dataset**
-
-This project focuses on how supply chain teams can use data to identify operational risk, prioritize problems, and decide where to act first.
-
-![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power%20BI-Desktop-F2C811?logo=powerbi&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-
-![Dashboard Banner](screenshots/01_executive_summary.png)
-
-</div>
-
----
 
 ## The Short Version
 
@@ -412,8 +398,4 @@ All 6 output CSVs will appear in `data/cleaned/`
 
 ---
 
-## Author
 
-**Ashish Kumar Dongre**
-
-[LinkedIn](https://www.linkedin.com/in/ashish-kumar-dongre-742a6217b/) &nbsp;|&nbsp; [GitHub](https://github.com/analytics-ak)
