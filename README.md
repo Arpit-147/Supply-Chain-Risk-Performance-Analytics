@@ -360,41 +360,6 @@ P11-Supply-Chain-Risk-Performance-Dashboard/
 
 This system provides directional decision support. It identifies where to investigate first — not exact operational commands.
 
----
-
-## How to Run This
-
-**Step 1 — Get the dataset**
-
-Download DataCo SMART Supply Chain Dataset from Kaggle.
-Place the CSV at `data/raw/DataCoSupplyChainDataset.csv`
-
-**Step 2 — Run Python notebooks in order**
-
-```bash
-pip install pandas numpy jupyter
-jupyter notebook
-```
-
-Run in this order:
-1. `python/01_data_cleaning.ipynb`
-2. `python/02_feature_engineering.ipynb`
-3. `python/03_risk_scoring.ipynb`
-4. `python/04_export_dashboard_tables.ipynb`
-
-All 6 output CSVs will appear in `data/cleaned/`
-
-**Step 3 — Open Power BI**
-
-- Open `dashboard/P11_Supply_Chain_Risk_Dashboard.pbix`
-- If prompted, update file paths to point to your `data/cleaned/` folder
-- Click Refresh — all 5 tables reload from the CSVs
-
----
-
-## Skills Demonstrated
-
-`SQL` `Python` `Pandas` `NumPy` `Power BI` `DAX` `Risk Scoring` `Feature Engineering` `Weighted Normalization` `Business Analytics` `Operational Analysis` `KPI Design` `Data Storytelling` `Decision Support`
 
 ---
 
